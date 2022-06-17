@@ -1,8 +1,6 @@
 # Sport-Shop-Management-System
 - 2nd year Mine-Project
 - Language - C
-- data structure use linked list
-- Simple implementation of admin/staff
 
 # Usage
 ```git clone https://github.com/pwn0x80/Sport-Shop-Management-System.git```
